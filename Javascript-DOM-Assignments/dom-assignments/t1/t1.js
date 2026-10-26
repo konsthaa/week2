@@ -27,7 +27,7 @@ const todoList = [
   },
 ];
 
-// add your code here
+// add your code here:
 const todoUl = document.querySelector('ul');
 
 // Loops through each item in the todolist array
